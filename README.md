@@ -6,4 +6,4 @@
 
 # TIME TABLE
 
-<img src="ASSETS\TIME TABLE.jpg" alt="Time table">
+<img src="ASSETS\TIME-TABLE.png" alt="Time table">
