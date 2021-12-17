@@ -4,8 +4,24 @@
 
 ## MATERIALS
 
-- **[Computer Graphics Online Note](Materials/Computer-Graphics_ONLINE_NOTE.pdf)**
-- **[Syllabus](Materials/CSC534_519_SYLABUS.docx)**
+- **[Computer Graphics Online Note](https://drive.google.com/file/d/1HYPatAx_O4za0XlHVoKUfQ98JS4Dbo98/view?usp=sharing)**
+- **[Syllabus](https://docs.google.com/document/d/1l-TZpSurrRYnVtpYv4uvV46kKgVWtlQZ/edit?usp=sharing&ouid=117481436158533814239&rtpof=true&sd=true)**
+
+## LECTURES
+
+- **[Lecture 1](https://drive.google.com/file/d/1OctQxw-hRGD28KPR0QPZG9qoaISuO4uR/view?usp=sharing)**
+- **[Lecture 2](https://drive.google.com/drive/folders/1Isjqb3jdibEl-iae5QbxwWCFKabcQwUk?usp=sharing)**
+  - [Part 1](https://drive.google.com/file/d/1Iwi4NHbJJNB_Gb1YdxTuQwsXjpkqet8A/view?usp=sharing)
+  - [Part 2](https://drive.google.com/file/d/1IstNPgfjnQ3hzDF98M09AvySjkLXBuj9/view?usp=sharing)
+
+## ASSIGNMENTS
+
+- ASSIGNMENT 1
+
+  - Explain in detail, the current graphic devices
+
+- ASSIGNMENT 2
+  - Run all the code in unit 3 of [the textbook](https://drive.google.com/file/d/1HYPatAx_O4za0XlHVoKUfQ98JS4Dbo98/view?usp=sharing)
 
 ## SYLLABUS
 
