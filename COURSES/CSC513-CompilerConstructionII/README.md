@@ -9,4 +9,4 @@
 
 ## LECTURES
 
-- **[Lecture 2](Lectures\Lecture2\README.md)**
+- **[Lecture 2](Lectures/Lecture2/README.md)**
